@@ -3,10 +3,10 @@ Wed 0900-1150 2019 Spring
 
 ---------------------------------------
 
-1st
+## 1st
 - Introduction  
 
-2nd
+## 2nd
 - Beef cattle nutrition and environment  
 
 ## 3rd
