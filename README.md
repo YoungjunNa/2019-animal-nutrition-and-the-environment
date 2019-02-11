@@ -25,7 +25,7 @@ Wed 0900-1150 2019 Spring
 - Presentation: Meta-analysis papers for beef cattle nutrition and environment
 - Presentation: Meta-analysis papers for dairy cattle nutrition and environment
 
-**10th:  **
+**10th:**  
 - Presentation: Meta-analysis papers for swine nutrition and environment
 - Presentation: Meta-analysis papers for poultry nutrition and environment
 
