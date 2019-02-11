@@ -36,7 +36,7 @@ Wed 0900-1150 2019 Spring
 **13th:** Disccusion for preparing the Metathon
 
 **14th:**  
-- **Metathon** day! ::cow:: ::computer:: ::running::  
+- **Metathon** day! :cow: :computer: :running:  
 The goal of a metathon is to write the publishable meta-analysis paper by the end of the event (within 24 hours).  
 
 **15th:** Refresh day after metathon
