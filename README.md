@@ -6,20 +6,22 @@ Wed 0900-1150 2019 Spring
 **1st:** Introduction  
 
 **2nd:** 
-- Animal environmental science overview
+- Overview: Environment and nutrition  
 - Some tools for research: Feedly, Pocket, and Zotero
 
 **3rd:** 
-- Presentation: Beef cattle nutrition and environment  
-- Presentation: Dairy cattle nutrition and environment
+- Beef cattle nutrition and environment  
+- Dairy cattle nutrition and environment
+- Small ruminant nutrition and environment
 
 **4th:** 
-- Presentation: Swine nutrition and environment
-- Presentation: Swine odor reduction
+- Poultry nutrition and environment
+- Swine nutrition and environment
+- Canine and feline nutrition and environment  
 
 **5th:** 
-- Presentation: Poultry nutrition and environment
-- Presentation: Canine and feline nutrition and environment  
+- Swine odor reduction strategy
+- Microbial treatment for environment
 
 **6th:** Introduction to meta-analysis 1  
 
@@ -28,12 +30,12 @@ Wed 0900-1150 2019 Spring
 **8th:** Mid-term exam
 
 **9th:**  
-- Presentation: Meta-analysis papers for beef cattle nutrition and environment
-- Presentation: Meta-analysis papers for dairy cattle nutrition and environment
+- Review: Meta-analysis papers for beef cattle nutrition and environment
+- Review: Meta-analysis papers for dairy cattle nutrition and environment
 
 **10th:**  
-- Presentation: Meta-analysis papers for swine nutrition and environment
-- Presentation: Meta-analysis papers for poultry nutrition and environment
+- Review: Meta-analysis papers for swine nutrition and environment
+- Review: Meta-analysis papers for poultry nutrition and environment
 
 **11th:** Basic R programming  
 
