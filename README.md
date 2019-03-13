@@ -7,7 +7,7 @@ Wed 0900-1150 2019 Spring
 
 **2nd:** 
 - Overview: Environment and nutrition  
-- Some tools for research: Feedly, Pocket, and Zotero
+- [Some tools for research: Feedly, Pocket, and Zotero](https://youngjunna.github.io/2019-animal-nutrition-and-the-environment/Some_tools_for_research.html#1)
 
 **3rd:** 
 - Beef cattle nutrition and environment  
