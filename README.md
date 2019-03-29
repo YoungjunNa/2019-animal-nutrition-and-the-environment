@@ -10,7 +10,7 @@ Wed 0900-1150 2019 Spring
 - [Some tools for research: Feedly, Pocket, and Zotero](https://youngjunna.github.io/2019-animal-nutrition-and-the-environment/Some_tools_for_research.html#1)
 
 **3rd:** 
-- Beef cattle nutrition and environment  
+- Beef cattle nutrition and environment: [download](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment/raw/master/Beef%20cattle%20nutrition%20and%20environment%20-%20G%20Park.pptx)
 - Dairy cattle nutrition and environment: [download](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment/raw/master/Dairy%20cattle%20Nutrition%20%26%20Environment_Kim.pptx)
 - Small ruminant nutrition and environment
 
