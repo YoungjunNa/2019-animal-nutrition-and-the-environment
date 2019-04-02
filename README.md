@@ -12,7 +12,7 @@ Wed 0900-1150 2019 Spring
 **3rd:** 
 - Beef cattle nutrition and environment: [download](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment/raw/master/Beef%20cattle%20nutrition%20and%20environment%20-%20G%20Park.pptx)
 - Dairy cattle nutrition and environment: [download](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment/raw/master/Dairy%20cattle%20Nutrition%20%26%20Environment_Kim.pptx)
-- Small ruminant nutrition and environment
+- Small ruminant nutrition and environment: [download](2019-animal-nutrition-and-the-environment/Small ruminant nutrition and environment_Lee.pptx)
 
 **4th:** 
 - Poultry nutrition and environment
