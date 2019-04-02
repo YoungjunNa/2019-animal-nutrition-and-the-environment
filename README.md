@@ -21,6 +21,7 @@ Wed 0900-1150 2019 Spring
 
 **5th:** 
 - Swine odor reduction strategy
+- IR camera tech for animal science: [download](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment/blob/master/IR%20camera%20tech%20and%20animal-H.Kang.pdf)
 - Microbial treatment for environment
 
 **6th:** Introduction to meta-analysis 1  
