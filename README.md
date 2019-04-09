@@ -25,7 +25,7 @@ Wed 0900-1150 2019 Spring
 - Microbial treatment for environment
 
 **6th:** Introduction to meta-analysis 1  
-- [hypothesis](https://docs.google.com/presentation/d/12hvnrdV0ejO2iUR4VxWqZi80ZvSKx-rkbf5OL-J2szk/edit?usp=sharing)  
+- [Hypothesis](https://docs.google.com/presentation/d/12hvnrdV0ejO2iUR4VxWqZi80ZvSKx-rkbf5OL-J2szk/edit?usp=sharing)  
 - Textbook: [Meta-analysis using R](https://book.naver.com/bookdb/book_detail.nhn?bid=9229584) & [Introduction to Meta-anlaysis](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470743386)
 
 
