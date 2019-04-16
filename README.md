@@ -33,12 +33,13 @@ Wed 0900-1150 2019 Spring
 **8th:** Mid-term exam
 
 **9th:**  
-- Review: Meta-analysis papers for beef cattle nutrition and environment
-- Review: Meta-analysis papers for dairy cattle nutrition and environment
+1. Vieira, B.S., Silva, F.G., Oliveira, C.F.S., Correa, A.B., Caramori Junior, J.G., Correa, G.S.S., 2017. Does citric acid improve performance and bone mineralization of broilers when combined with phytase? A systematic review and meta-analysis. Animal Feed Science and Technology 232, 21–30. 
+2. Hou, Y., Velthof, G.L., Oenema, O., 2015. Mitigation of ammonia, nitrous oxide and methane emissions from manure management chains: a meta-analysis and integrated assessment. Global Change Biology 21, 1293–1312. 
 
 **10th:**  
-- Review: Meta-analysis papers for swine nutrition and environment
-- Review: Meta-analysis papers for poultry nutrition and environment
+3. Arriola, K.G., Oliveira, A.S., Ma, Z.X., Lean, I.J., Giurcanu, M.C., Adesogan, A.T., 2017. A meta-analysis on the effect of dietary application of exogenous fibrolytic enzymes on the performance of dairy cows. Journal of Dairy Science 100, 4513–4527.
+4. Nasrollahi, S.M., Imani, M., Zebeli, Q., 2016. A meta-analysis and meta-regression of the impact of particle size, level, source and preservation method of forages on chewing behavior and ruminal fermentation in dairy cows. Animal Feed Science and Technology 219, 144–158.   
+5. Duffield, T.F., Merrill, J.K., Bagg, R.N., 2012. Meta-analysis of the effects of monensin in beef cattle on feed efficiency, body weight gain, and dry matter intake1. Journal of Animal Science 90, 4583–4592. 
 
 **11th:** Basic R programming  
 
