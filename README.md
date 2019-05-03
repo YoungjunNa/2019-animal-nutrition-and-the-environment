@@ -37,6 +37,8 @@ Wed 0900-1150 2019 Spring
 - [BasicR](https://youngjunna.github.io/aes/basicR)  
 
 **10th:** Basic meta-analysis programming  
+- [Example dataset for meta-analysis](https://github.com/YoungjunNa/animal_science/raw/master/R/meta_dataframe.xlsx)  
+- [Example codes for meta-analysis](https://github.com/YoungjunNa/animal_science/blob/master/R/r_meta-analysis.R)  
 
 **11th:** Review 1  
 - Vieira, B.S., Silva, F.G., Oliveira, C.F.S., Correa, A.B., Caramori Junior, J.G., Correa, G.S.S., 2017. Does citric acid improve performance and bone mineralization of broilers when combined with phytase? A systematic review and meta-analysis. Animal Feed Science and Technology 232, 21–30. 
