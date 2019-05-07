@@ -36,7 +36,7 @@ Wed 0900-1150 2019 Spring
 - [Animal science with data science](https://github.com/YoungjunNa/aes/blob/master/animal%20science%20with%20data%20science.pdf)  
 - [Basic R programming](https://youngjunna.github.io/aes/basicR)  
 
-**10th:** Basic meta-analysis programming  
+**10th:** Basic meta-analysis programming using R  
 - [Example dataset for meta-analysis](https://github.com/YoungjunNa/animal_science/raw/master/R/meta_dataframe.xlsx)  
 - [Example codes for meta-analysis](https://github.com/YoungjunNa/animal_science/blob/master/R/r_meta-analysis.R)  
 
