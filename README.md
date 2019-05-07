@@ -29,11 +29,13 @@ Wed 0900-1150 2019 Spring
 - Textbook: [Meta-analysis using R](https://book.naver.com/bookdb/book_detail.nhn?bid=9229584) & [Introduction to Meta-anlaysis](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470743386)
 
 **7th:** Introduction to meta-analysis 2
+- Homework: Install the R & Rstudio  
 
 **8th:** Mid-term exam
 
 **9th:** Basic R programming  
 - [Animal science with data science](https://github.com/YoungjunNa/aes/blob/master/animal%20science%20with%20data%20science.pdf)  
+- https://rstudio.cloud/  
 - [Basic R programming](https://youngjunna.github.io/aes/basicR)  
 
 **10th:** Basic meta-analysis programming using R  
