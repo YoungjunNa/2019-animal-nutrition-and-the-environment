@@ -29,8 +29,7 @@ Wed 0900-1150 2019 Spring
 - Textbook: [Meta-analysis using R](https://book.naver.com/bookdb/book_detail.nhn?bid=9229584) & [Introduction to Meta-anlaysis](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470743386)
 
 **7th:** Introduction to meta-analysis 2
-- Homework: Install the [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/)  
-- Caution!: please use the username of OS (windows, mac or linux) **in English** (NOT KOREAN)  
+- Homework: Install the [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/) [Caution! please use the username of OS (windows, mac, or linux) **in English** (NOT KOREAN)]  
 
 **8th:** Mid-term exam
 
