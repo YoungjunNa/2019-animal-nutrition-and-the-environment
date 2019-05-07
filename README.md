@@ -30,7 +30,7 @@ Wed 0900-1150 2019 Spring
 
 **7th:** Introduction to meta-analysis 2
 - Homework: Install the [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/) 
-- *Caution! please use the username of OS (windows, mac, or linux) **in English** (NOT KOREAN)*  
+- *Caution! Please use the username of OS (windows, mac, or linux) **in ENGLISH** (NOT Korean) during the installation*  
 
 **8th:** Mid-term exam
 
