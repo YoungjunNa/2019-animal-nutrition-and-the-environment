@@ -1,5 +1,5 @@
 # Animal nutrition and the environment  
-Wed 0900-1150 2019 Spring
+Wed 0900-1150 2019 Spring  
 Konkuk University  
 ---------------------------------------
 
