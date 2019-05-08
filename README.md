@@ -46,17 +46,17 @@ Wed 0900-1150 2019 Spring
 
 **11th:** Review 1  
 - Sales, J., Jančík, F., 2011. Effects of dietary chromium supplementation on performance, carcass characteristics, and meat quality of growing-finishing swine: A meta-analysis1. Journal of Animal Science 89, 4054–4067. 
-- Duffield, T.F., Rabiee, A.R., Lean, I.J., 2008a. A Meta-Analysis of the Impact of Monensin in Lactating Dairy Cattle. Part 1. Metabolic Effects. Journal of Dairy Science 91, 1334–1346. 
-- Duffield, T.F., Rabiee, A.R., Lean, I.J., 2008b. A Meta-Analysis of the Impact of Monensin in Lactating Dairy Cattle. Part 2. Production Effects. Journal of Dairy Science 91, 1347–1360. 
+- Duffield, T.F., Rabiee, A.R., Lean, I.J., 2008. A Meta-Analysis of the Impact of Monensin in Lactating Dairy Cattle. Part 1. Metabolic Effects. Journal of Dairy Science 91, 1334–1346. 
+- Duffield, T.F., Rabiee, A.R., Lean, I.J., 2008. A Meta-Analysis of the Impact of Monensin in Lactating Dairy Cattle. Part 2. Production Effects. Journal of Dairy Science 91, 1347–1360. 
 
 **12th:** Review 2    
+- Sales, J., 2014. Effects of access to pasture on performance, carcass composition, and meat quality in broilers: A meta-analysis1. Poultry Science 93, 1523–1533.  
 - Duffield, T.F., Merrill, J.K., Bagg, R.N., 2012. Meta-analysis of the effects of monensin in beef cattle on feed efficiency, body weight gain, and dry matter intake1. Journal of Animal Science 90, 4583–4592.  
-- Sales, J., 2014. Effects of access to pasture on performance, carcass composition, and meat quality in broilers: A meta-analysis1. Poultry Science 93, 1523–1533.
 
 **13th:** Disccusion for preparing the Metathon
 
 **14th: Metathon day!** :cow: :computer: :running:  
-- Metathon == Meta-analysis + marathon  
+- Metathon == Meta-analysis + Marathon  
 - The goal of a metathon is to write the publishable meta-analysis paper by the end of the event (within 24 hours).  
 
 **15th:** Refresh day after metathon
