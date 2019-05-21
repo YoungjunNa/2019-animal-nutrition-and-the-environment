@@ -44,12 +44,13 @@
 - [Example codes for meta-analysis](https://github.com/YoungjunNa/animal_science/blob/master/R/r_meta-analysis.R)  
 
 **11th:** Review 1  
-- Sales, J., Jančík, F., 2011. Effects of dietary chromium supplementation on performance, carcass characteristics, and meat quality of growing-finishing swine: A meta-analysis1. Journal of Animal Science 89, 4054–4067. 
 - Duffield, T.F., Rabiee, A.R., Lean, I.J., 2008. A Meta-Analysis of the Impact of Monensin in Lactating Dairy Cattle. Part 1. Metabolic Effects. Journal of Dairy Science 91, 1334–1346. 
 - Duffield, T.F., Rabiee, A.R., Lean, I.J., 2008. A Meta-Analysis of the Impact of Monensin in Lactating Dairy Cattle. Part 2. Production Effects. Journal of Dairy Science 91, 1347–1360. 
+- Sales, J., 2014. Effects of access to pasture on performance, carcass composition, and meat quality in broilers: A meta-analysis1. Poultry Science 93, 1523–1533.  
+
 
 **12th:** Review 2    
-- Sales, J., 2014. Effects of access to pasture on performance, carcass composition, and meat quality in broilers: A meta-analysis1. Poultry Science 93, 1523–1533.  
+- Sales, J., Jančík, F., 2011. Effects of dietary chromium supplementation on performance, carcass characteristics, and meat quality of growing-finishing swine: A meta-analysis1. Journal of Animal Science 89, 4054–4067. 
 - Duffield, T.F., Merrill, J.K., Bagg, R.N., 2012. Meta-analysis of the effects of monensin in beef cattle on feed efficiency, body weight gain, and dry matter intake1. Journal of Animal Science 90, 4583–4592.  
 
 **13th:** Disccusion for preparing the Metathon
