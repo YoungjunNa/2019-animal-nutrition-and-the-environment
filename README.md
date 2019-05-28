@@ -60,8 +60,21 @@
 - The goal of a metathon is to write the publishable meta-analysis paper by the end of the event (within 24 hours).  
 
 **Time table**  
-💚Data Work; ❤️ Paper Work; 💙etc.  
-
+💚Data Work; ❤️Paper Work; 💙etc.  
+09:00-09:30 💙Setting the PC, projector, snacks, and so on  
+09:30-10:30 💙Roadmap / ❤️structure of MA paper  
+10:30-13:00 💚Data scraping / ❤️Introduction; Acknowledgement  
+13:00-15:00 💙Break time  
+15:00-18:00 💚Data scraping / ❤️Material & methods  
+18:00-20:00 💚Data analysis  
+20:00-22:00 💚❤️Discussion for following results / ❤️Results  
+22:00-02:00 ❤️Discussion  
+02:00-03:00 ❤️Literature Cited  
+03:00-04:00 ❤️ABSTRACT  
+04:00-05:00 ❤️Cover letter  
+06:00-07:00 ❤️Final Check  
+07:00-08:00 ❤️Submission OR translate service  
+08:00-09:00 💙Breakfast  
 
 **15th:** Refresh day after metathon
 
