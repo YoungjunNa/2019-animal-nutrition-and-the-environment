@@ -59,6 +59,10 @@
 - Metathon == Meta-analysis + Marathon  
 - The goal of a metathon is to write the publishable meta-analysis paper by the end of the event (within 24 hours).  
 
+**Time table**  
+💚Data Work; ❤️ Paper Work; 💙etc.  
+
+
 **15th:** Refresh day after metathon
 
 **16th:** Final exam
