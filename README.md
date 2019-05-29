@@ -60,8 +60,7 @@
   
 - Metathon == Meta-analysis + Marathon  
 - The goal of a metathon is to write the publishable meta-analysis paper by the end of the event (within 24 hours).  
-- Start: 09:00 4th June 2019 -> [Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGRsNGVzdDh0bWdqdGF1bnE1cGcwczZvdDQgYXIxbG9za3VsMDljbTB1dm91Z24xZ2JmcDhAZw&tmsrc=ar1loskul09cm0uvougn1gbfp8%40group.calendar.google.com)
-- End: 09:00 5th June 2019
+- Time: 2019-05-04 09:00 to 2019-05-05 09:00 -> [Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGRsNGVzdDh0bWdqdGF1bnE1cGcwczZvdDQgYXIxbG9za3VsMDljbTB1dm91Z24xZ2JmcDhAZw&tmsrc=ar1loskul09cm0uvougn1gbfp8%40group.calendar.google.com)
 - Location: [204 Animal Sci. Building. Konkuk University.](https://goo.gl/maps/bREpyBMjUspDvk9A9) Seoul. South Korea.
 - (**Research Subject**) Meta-analysis: Non-antibiotic feed additives in swine diets.
 - [Reference paper](https://www.sciencedirect.com/science/article/pii/S240565451730121X)
