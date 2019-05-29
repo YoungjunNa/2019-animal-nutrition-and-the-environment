@@ -19,7 +19,7 @@
 - Canine and feline nutrition and environment  
 
 **5th:** 
-- Swine odor reduction strategy
+- Swine odor reduction strategy: [download](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment/blob/master/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%92%E1%85%AA%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%AA%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A3%E1%86%BC_%E1%84%8C%E1%85%A9%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%83%E1%85%A5%E1%86%A8.pdf)
 - IR camera tech for animal science: [download](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment/blob/master/IR%20camera%20tech%20and%20animal-H.Kang.pdf)
 - Microbial treatment for environment
 
