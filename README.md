@@ -56,7 +56,8 @@
 - Preparation for Metathon: [download](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment/raw/master/prepare-for-Metathon.pptx)  
 
 **14th: Metathon day!** :cow: :computer: :running:  
-> "People power sparks great ideas!"  
+> *"People power sparks great ideas!"*
+  
 - Metathon == Meta-analysis + Marathon  
 - The goal of a metathon is to write the publishable meta-analysis paper by the end of the event (within 24 hours).  
 - Start: 09:00 4th June 2019 -> [Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGRsNGVzdDh0bWdqdGF1bnE1cGcwczZvdDQgYXIxbG9za3VsMDljbTB1dm91Z24xZ2JmcDhAZw&tmsrc=ar1loskul09cm0uvougn1gbfp8%40group.calendar.google.com)
